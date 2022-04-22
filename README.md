@@ -1,6 +1,6 @@
 ### 
  🌱Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
- 📫 Contact me for Data Science Project Collaborations
+ 📫 Contact me for Data Science Project Collaborations 💬 91221rishekhdubey@gmail.com
 <!--
 **Rishekh/Rishekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
